@@ -1,10 +1,5 @@
-table{
-	width:1100px;
-	background-color:lightgrey;
+table,tr,td{
 	border:1px solid black;
 	border-collaspe:collapse;
 }
-.tr2{
-	border:1px solid black;
-	border-collaspe:collapse;
-}
+
